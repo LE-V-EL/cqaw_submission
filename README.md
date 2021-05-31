@@ -39,6 +39,8 @@ We will evaluate your predictions and update the leaderboard accordingly.
  
 Here is the code for the stimuli generation: https://github.com/LE-V-EL/cqaw_datagenerator
 
+You do not need this code - instead please download the generated datasets here: https://cqaw.github.io/challenge
+
 ## Questions?
 
 Please contact cqaw < at > mpsych . org ! 
